@@ -6,7 +6,7 @@ import psycopg2
 
 
 # Initialize variables
-# Note: Use your own data here, I'm not publishing the keys to my server
+# Note: Use your own info here, I'm not publishing the keys to my server
 
 user = ''
 password = ''
